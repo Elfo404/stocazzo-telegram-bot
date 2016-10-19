@@ -21,3 +21,6 @@ You can talk to me on [Telegram](https://telegram.me/StoCazzo_io_bot) and ask me
 
 I can also probably answer a lot more questions, in that case consider submitting an issue as my creator didn't intended it (and he doesn't know how to regex).
 
+##License
+
+srsly?
