@@ -1,0 +1,15 @@
+{
+  "name": "stocazzo-telegram-bot",
+  "version": "1.0.0",
+  "description": "A funny telegram bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giordano Ricci <grdnricci@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "latest",
+    "request": "latest"
+  }
+}
