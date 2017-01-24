@@ -1,4 +1,4 @@
-#Stocazzo Telegram BOT
+#Stocazzo Telegram BOT - [![Code Climate](https://codeclimate.com/github/Elfo404/stocazzo-telegram-bot/badges/gpa.svg)](https://codeclimate.com/github/Elfo404/stocazzo-telegram-bot)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Elfo404/stocazzo-telegram-bot/master/img/stocazzo.png">
